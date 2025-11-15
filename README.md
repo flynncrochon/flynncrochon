@@ -1,4 +1,4 @@
-# **C++ > Java**
+# **C++, Python**
 
 ```
 void *ptr = &a;
